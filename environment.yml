@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - sympy
+  - mpmath
   - numpy
   - numpy-base
   - networkx
